@@ -22,6 +22,6 @@ const styles = StyleSheet.create({
   },
   text: {
     flex: 0,
-    color: "grey",
+    color: "black",
   },
 });
